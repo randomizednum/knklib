@@ -1,0 +1,7 @@
+knklib is a silly little program that allows querying the KANKA "artificial intelligence" of MEBİ (MEB Individual Learning Platform).
+
+From what it seems, KANKA is far from anything that can be considered "artificial intelligence"; it looks more like a simple sentence matching program. It's useless, but its uselessness is fun to play with.
+
+The only dependencies (other than Lua) are lua-cjson (https://luarocks.org/modules/openresty/lua-cjson) and lua-http (https://github.com/daurnimator/lua-http).
+
+There is no proper documentation; see the source code instead. It is short and straightforward.
